@@ -1,1 +1,1 @@
-# accordion
+# Simple decision for accordion
