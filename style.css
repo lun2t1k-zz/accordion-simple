@@ -11,10 +11,6 @@
     transition: 0.5s;
 }
 
-.active, .accordion:hover {
-    background-color: #607D8B;
-}
-
 .accordion:after {
     content: '\002B';
     color: #fff;
